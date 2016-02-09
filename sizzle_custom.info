@@ -1,0 +1,15 @@
+name        = Sizzle Custom
+description = Custom theme for Open Restaurant based on Sizzle.
+core        = 7.x
+
+; Base - Sizzle
+base theme  = sizzle
+
+; Regions
+regions[content] = Content
+
+; Script
+scripts[] = js/sizzle_custom.script.js
+
+; CSS
+stylesheets[all][] = css/sizzle_custom.style.css

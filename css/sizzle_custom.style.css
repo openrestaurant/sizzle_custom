@@ -1,0 +1,10 @@
+/**
+ * Add your custom CSS style here.
+ */
+body, .page {
+  background: white;
+}
+
+.page {
+  border: 1px solid #111;
+}
